@@ -1,0 +1,2 @@
+# Generate the histogram for the following image (Without using the inbuilt function). Please note that this is a ungraded assignment, since its a part of the next graded assignment.
+# Algorithm for histogram equalization is  also attached below for your reference. Students can try to implement that as well although this part is optional.
